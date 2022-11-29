@@ -1,2 +1,2 @@
 # es-war-einmal
-Das CareerPeakr team collaboriert an einem Märchen
+Das CareerPeakr team arbeitet bei einem Märchen zusammen
